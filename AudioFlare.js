@@ -1,3 +1,7 @@
+/*AudioFlare.js v1.0 (22/11/2016)
+Created by Trevor Richard
+with p5.js (https://p5js.org/)
+*/
 var mic, amplitude, red, green, blue, randActive, welcome;
 
 function setup() {
